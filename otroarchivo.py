@@ -2,3 +2,6 @@
 lista = [2,2,3,4,4]
 print (lista)
 
+
+#se puede agregar otras cosas
+
